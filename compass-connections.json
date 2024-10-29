@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "fcf39467-846d-4219-9c7b-849a964f18bc",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1730197928594"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.wb7fq.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://giblimdev:pass123!@cluster0.wb7fq.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
